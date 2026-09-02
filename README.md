@@ -54,3 +54,22 @@ Joke API to fetch jokes.
 
 ![Basic_Joke_Api](Foundation/_screenshots/basic_joke_api1.png)
 ![Basic_Joke_Api](Foundation/_screenshots/basic_joke_api2.png)
+
+---
+
+### 6. Basic Storage
+Local Storage for data.
+* **Concepts Learned:** Storing Data locally using Shared preference package.
+* [View Source Code](Foundation/basic_storage/)
+
+![Basic_Joke_Api](Foundation/_screenshots/basic_storage1.png)
+![Basic_Joke_Api](Foundation/_screenshots/basic_storage2.png)
+
+---
+
+### 7. Json Serialization
+Json translation.
+* **Concepts Learned:** Converting data fromJson and toJson.
+* [View Source Code](Foundation/json_serialization/)
+
+![Basic_Joke_Api](Foundation/_screenshots/json_serialization.png)
