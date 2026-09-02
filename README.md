@@ -62,8 +62,8 @@ Local Storage for data.
 * **Concepts Learned:** Storing Data locally using Shared preference package.
 * [View Source Code](Foundation/basic_storage/)
 
-![Basic_Joke_Api](Foundation/_screenshots/basic_storage1.png)
-![Basic_Joke_Api](Foundation/_screenshots/basic_storage2.png)
+![Basic_Storage](Foundation/_screenshots/basic_storage1.png)
+![Basic_Storage](Foundation/_screenshots/basic_storage2.png)
 
 ---
 
@@ -72,4 +72,4 @@ Json translation.
 * **Concepts Learned:** Converting data fromJson and toJson.
 * [View Source Code](Foundation/json_serialization/)
 
-![Basic_Joke_Api](Foundation/_screenshots/json_serialization.png)
+![Json Serialization](Foundation/_screenshots/json_serialization.png)
