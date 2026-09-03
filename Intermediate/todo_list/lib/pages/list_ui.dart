@@ -86,5 +86,10 @@ class _ListUiState extends State<ListUi> {
       ),
     );
   }
+  @override
+  void dispose(){
+    myController.dispose();
+    super.dispose();
+  }
 
 }
