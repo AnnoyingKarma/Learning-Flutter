@@ -73,3 +73,52 @@ Json translation.
 * [View Source Code](Foundation/json_serialization/)
 
 ![Json Serialization](Foundation/_screenshots/json_serialization.png)
+
+---
+---
+
+## Phase 2: Intermediate
+
+This phase focuses on clean widget architecture, multi-screen navigation, real-time API integrations, and local data persistence.
+
+### 1. Todo List
+A task management application to add, track, and delete tasks.
+* **Concepts Learned:** CRUD operations, `TextEditingController` lifecycle management (`dispose()`), and interactive list view rendering.
+* [View Source Code](Intermediate/todo_list/)
+
+![Todo List](Intermediate/_screenshots/todo_list1.png)
+![Todo List](Intermediate/_screenshots/todo_list2.png)
+![Todo List](Intermediate/_screenshots/todo_list3.png)
+
+---
+
+### 2. Weather App
+A live weather application fetching real-time atmospheric data.
+* **Concepts Learned:** Asynchronous programming (`async`/`await`), dynamic API requests, JSON data parsing, and updating UI states dynamically based on location inputs.
+* [View Source Code](Intermediate/weather_app/)
+
+![Weather App](Intermediate/_screenshots/weather_app1.png)
+![Weather App](Intermediate/_screenshots/weather_app2.png)
+
+---
+
+### 3. Recipe Book
+A multi-screen application to browse recipes and view detailed ingredient and instruction cards.
+* **Concepts Learned:** Multi-screen navigation, passing dynamic custom objects across screens, and `GridView` layout building.
+* [View Source Code](Intermediate/recipe_book/)
+
+![Recipe Book](Intermediate/_screenshots/recipe_book1.png)
+![Recipe Book](Intermediate/_screenshots/recipe_book2.png)
+![Recipe Book](Intermediate/_screenshots/recipe_book3.png)
+![Recipe Book](Intermediate/_screenshots/recipe_book4.png)
+
+---
+
+### 4. Expense Tracker
+A financial tracking application to manage and persistently store expenses on the device.
+* **Concepts Learned:** Local data persistence with `SharedPreferences`, JSON serialization (`toMap`/`fromMap`, `jsonEncode`/`jsonDecode`), Modal Bottom Sheets, and form handling.
+* [View Source Code](Intermediate/expense_tracker/)
+
+![Expense Tracker](Intermediate/_screenshots/expense_tracker1.png)
+![Expense Tracker](Intermediate/_screenshots/expense_tracker2.png)
+![Expense Tracker](Intermediate/_screenshots/expense_tracker3.png)
